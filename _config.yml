@@ -4,16 +4,16 @@
 
 # Site
 title: Westwoodlabs
-subtitle: Hacker-Space im Westerwald
-description: Ein Hacker-Space im Westerwald
+subtitle: Der (geplante) Hackerspace im Westerwald
+description: Der (geplante) Hackerspace im Westerwald
 author:
 language: German
 timezone:
 
 menu:
   Home: /
-  About: /about
-  Treffen: /events
+  Infos: /about
+  Termine: /events
 
 # URL
 url: https://westwoodlabs.de
@@ -68,7 +68,7 @@ pagination_dir: page
 theme: westwoods
 excerpt_link: Mehr lesen
 cover: //blog.ghost.org/content/images/2013/Nov/cover.png
-logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
+logo: /images/logo.png
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
