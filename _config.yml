@@ -9,6 +9,7 @@ description: Der (geplante) Hackerspace im Westerwald
 author:
 language: German
 timezone:
+color: '#121F2D'
 
 menu:
   Home: /
