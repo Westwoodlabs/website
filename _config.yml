@@ -7,14 +7,10 @@ title: Westwoodlabs
 subtitle: Der (geplante) Hackerspace im Westerwald
 description: Der (geplante) Hackerspace im Westerwald
 author:
-language: German
+language: german
 timezone:
 color: '#121F2D'
-
-menu:
-  Home: /
-  Infos: /about
-  Termine: /events
+status:
 
 # URL
 url: https://westwoodlabs.de
