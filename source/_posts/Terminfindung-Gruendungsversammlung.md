@@ -22,4 +22,4 @@ Derzeit suchen wir noch einen passenden Termin:
 
 ## Entwurf von unserer Satzung und der Beitragsordnung
 [Satzungsentwurf](/dateien/satzung.pdf)
-[Entwurf Beitagsordnung](/dateien/beitagsordnung.pdf)
+[Entwurf Beitragsordnung](/dateien/beitragsordnung.pdf)
