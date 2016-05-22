@@ -13,6 +13,7 @@ Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Hackerspace)
 [Entropia Karlsruhe](http://entropia.de)
 [Hackerspace FFM Oberursel](http://www.hackerspace-ffm.de/)
 [shackspace](http://shackspace.de/shackspace.de/index.php)
+[und viele mehr ...](https://wiki.hackerspaces.org/List_of_hackerspaces)
 ## Gründungsversammlung
  Wir haben vor im Juni unseren Verein zu gründen. Wenn du Lust hast Gründungsmitglied zu werden, dann komm doch zu unserer Gründungsversammlung.
 Derzeit suchen wir noch einen passenden Termin:
