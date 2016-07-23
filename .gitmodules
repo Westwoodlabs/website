@@ -1,4 +1,4 @@
 [submodule "themes/westwoods"]
 	path = themes/westwoods
-	url = git@github.com:WestwoodLabs/westwoodlabs-website.git
+	url = git@github.com:WestwoodLabs/hexo-theme-westwoods.git
 	branch = master
