@@ -64,7 +64,6 @@ pagination_dir: page
 # Extensions
 theme: westwoods
 excerpt_link: Mehr lesen
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
 logo: /images/logo.png
 
 # Deployment
