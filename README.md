@@ -2,8 +2,8 @@ Die Westwoodlabs Website
 ========================
 
 In diesem Repo ist nur der Seiteninhalt *nicht* der Source Code des Layouts.
-Das Theme ist als Git Submodule eingebunden.
--> Das [Theme](http://git.westwoodlabs.de/Westwoodlabs/hexo-theme-westwoods)
+Das Theme ist als Git Submodule eingebunden.  
+-> Das [Theme](https://github.com/WestwoodLabs/hexo-theme-westwoods)
 
 ## Einrichtung:
 [nodejs](http://nodejs.org), [npm](npmjs.com) und natürlich [git](http://git-scm.com) werden vorausgesetzt.
