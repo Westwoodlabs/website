@@ -1,5 +1,5 @@
 ---
-title: Über uns
+title: Verein
 ---
 
 ## Was ist ein Hackerspace?
@@ -8,8 +8,12 @@ title: Über uns
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Hackerspace)
 
 ## Was sind die Westwoodlabs?
-Wir sind derzeit dabei einen Hackerspace im Westerwald zu gründen.
-Derzeit stehen wir fast vor der Gründung und können jeden der Lust auf einen Hackerspace hat gebrauchen.
+Wir sind der lokale Hackerspace im Westerwald. Wir haben uns am 11. Juni 2016 gegründet und arbeiten derzeit an einer Eintragung um als e.V. arbeiten zu können.
 
-Wenn wir dein Interesse geweckt haben, schau doch mal hier:
-[Terminfindung Gründungsversammlung](https://westwoodlabs.de/2016/05/18/Terminfindung-Gruendungsversammlung/)
+Den Vorstand erreichst du über <a href="mailto:vorstand@westwoodlabs.de">vorstand@westwoodlabs.de</a>
+
+Hier findet ihr die wichtigsten Dokumente:
+
+* [Satzung](../dateien/Satzung.pdf)
+* [Beitragsordnung](../dateien/Beitragsordnung.pdf)
+* [Mitgliedsantrag](../dateien/Mitgliedsantrag.pdf)
