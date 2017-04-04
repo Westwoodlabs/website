@@ -3,8 +3,8 @@ title: Wir sind gegründet
 date: 2016-06-11 23:49:00
 ---
 Heute fand die Gründungsversammlung der Westwoodlabs statt. 
-Es waren 12 Personen anwesend von denen auch alle Stimmberechtigt waren somit stand der Gründung nichts mehr im Weg. 
-Begonnen wurde mit der Ausdiskutierung über die Satzung was ohne Probleme verlief. Nachdem einstimmig beschlossen wurde das die Westwoodlabs die ausgearbeitete Satzung tragen sollen wurde festgestellt, dass damit der Verein ordnungsgemäß gegründet wurde. 
+Es waren 12 Personen anwesend von denen alle Stimmberechtigt waren, somit stand der Gründung nichts mehr im Weg. 
+Begonnen wurde mit der Ausdiskutierung über die Satzung was ohne Probleme verlief. Nachdem einstimmig beschlossen wurde das die Westwoodlabs die ausgearbeitete Satzung tragen sollen, wurde festgestellt, dass damit der Verein ordnungsgemäß gegründet wurde. 
 
 Nun wurde die Wahl des Vorstands durchgeführt:
 

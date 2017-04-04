@@ -3,7 +3,7 @@ title: Aktueller Stand
 date: 2016-04-30 18:08:30
 ---
 
-Am 20.4. hatten die Westwoodlabs ihr kickoff Treffen in Montabaur. Mit 12 interessierten Personen auf dem Treffen hat sich gezeigt, dass die kritische Masse für einen Hackerspace im Westerwald erreichbar ist. Damit ihr nichts verpasst habt, gibt es hier nochmal das Kurzprotokoll des Treffen.
+Am 20.04. hatten die Westwoodlabs ihr kickoff Treffen in Montabaur. Mit 12 interessierten Personen auf dem Treffen hat sich gezeigt, dass die kritische Masse für einen Hackerspace im Westerwald erreichbar ist. Damit ihr nichts verpasst habt, gibt es hier nochmal das Kurzprotokoll des Treffen.
 
 ## Protokoll:
 ### Anwesend:
