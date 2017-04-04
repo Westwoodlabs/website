@@ -35,5 +35,5 @@ hexo server
 ## Aktualisieren
 ```sh
 git pull -r
-git submodules update
+git submodule update
 ```
