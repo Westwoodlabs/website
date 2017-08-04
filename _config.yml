@@ -70,3 +70,7 @@ logo: /images/logo.svg
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+include:
+  - .htaccess
+  

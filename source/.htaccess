@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+        RewriteEngine On
+
+        RewriteBase /
+
+        # SSL Rewrite
+        RewriteCond %{SERVER_PORT} 80
+        RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+</IfModule>
