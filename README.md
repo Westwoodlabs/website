@@ -1,8 +1,8 @@
 Westwoodlabs Website
 ====================
 
-Dieses Git-Repository enthält nur der Seiteninhalt der Westwoodlabs Website ([westwoodlabs.de](https://westwoodlabs.de/)) 
-und *nicht* der Source Code des Themes. Das Theme ist als Git-Submodule eingebunden.
+Dieses Git-Repository enthält nur den Seiteninhalt der Westwoodlabs Website ([westwoodlabs.de](https://westwoodlabs.de/)) 
+und *nicht* den Source Code des Themes. Das Theme ist als Git-Submodule eingebunden.
 ↳ [Zum Git-Repository des Themes](https://github.com/WestwoodLabs/hexo-theme-westwoods)
 
 ## Einrichtung
