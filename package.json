@@ -1,7 +1,10 @@
 {
   "name": "westwoodlabs",
   "version": "0.0.0",
-  "private": true,
+  "private": true
+  "hexo": {
+    "version": "3.4.4"
+  },
   "dependencies": {
     "hexo": "^3.4.4",
     "hexo-generator-archive": "^0.1.5",
