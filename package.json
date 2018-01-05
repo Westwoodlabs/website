@@ -1,7 +1,7 @@
 {
   "name": "westwoodlabs",
   "version": "0.0.0",
-  "private": true
+  "private": true,
   "hexo": {
     "version": "3.4.4"
   },
