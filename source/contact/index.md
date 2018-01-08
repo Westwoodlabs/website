@@ -22,4 +22,4 @@ Man kann uns über verschiedene Wege erreichen:
 
 ## Pressekontakt
 Du bist Journalist und suchst Infos zu den Westwoodlabs?
-Dann melde dich bei uns unter [presse@westwoodlabs.de](mailto:presse@westwoodlabs.de).
+Dann melde dich bei uns unter [vorstand@westwoodlabs.de](mailto:vorstand@westwoodlabs.de).
