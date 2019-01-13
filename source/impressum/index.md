@@ -4,15 +4,15 @@ title: Impressum
 
 ## Angaben gemäß § 5 TMG:
 Westwoodlabs
-c/o Fabian Cernota  
-Mengweide 6a  
-56422 Wirges
+c/o Patric Steffen  
+Friedrichstraße 13 
+57639 Rodenbach-Udert
 
 ## Kontakt:
 
 
-| Telefon:       | E-Mail:                |
-| :------------- | :--------------------- |
-| 016091083657   | fabian@westwoodlabs.de |
+| E-Mail:                |
+| :--------------------- |
+| patric@westwoodlabs.de |
 
 Quelle: _[eRecht24](https://www.e-recht24.de)_
