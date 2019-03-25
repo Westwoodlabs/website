@@ -8,12 +8,12 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 ### Verantwortlicher
 
 Westwoodlabs  
-Mengweide 6a  
-56422 Wirges  
+Friedrichstraße 13  
+57639 Rodenbach-Udert  
 Deutschland  
   
 E-Mailadresse: vorstand@westwoodlabs.de  
-1\. Vorsitzender: Fabian Cernota  
+1\. Vorsitzender: Patric Steffen  
 Link zum Impressum: https://westwoodlabs.de/impressum
 
 ### Arten der verarbeiteten Daten:
