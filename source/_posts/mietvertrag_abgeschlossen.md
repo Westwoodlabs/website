@@ -1,5 +1,5 @@
 ---
-title: Erstes eigenes Heim ab 01.06.
+title: Vereinsräume ab Juni
 date: 2019-04-24 14:24:00
 ---
 
