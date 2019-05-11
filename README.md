@@ -9,7 +9,7 @@ und *nicht* den Source Code des Themes. Das Theme ist als Git-Submodule eingebun
 Vorausgesetzt werden [nodejs](http://nodejs.org), [npm](npmjs.com) und natürlich [git](http://git-scm.com).
 
 ```sh
-git clone git@git.westwoodlabs.de:Westwoodlabs/westwoodlabs-website.git
+git clone https://github.com/Westwoodlabs/westwoodlabs-website.git
 cd westwoodlabs-website
 git submodule update --init
 npm install
