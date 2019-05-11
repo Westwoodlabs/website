@@ -4,8 +4,6 @@ title: Kontakt
 
 Man kann uns über verschiedene Wege erreichen:
 
-* Mailingliste:
-  Wir haben eine Mailingliste um wichtige interne Dinge zu besprechen. Wenn du sie abonnieren möchtest [klicke hier](mailto:intern-subscribe@westwoodlabs.de?subject=Registrierung%20WWLabs%20Mailingliste&body=Leere%20Mail%20zur%20Registrierung%20auf%20der%20WWLabs%20ML).
 * Telegram  
   Wir haben einen öffentlichen Channel bei Telegram [@Westwoodlabs](https://t.me/joinchat/CftZDD4BmV_OH1-UziJPag).
 
