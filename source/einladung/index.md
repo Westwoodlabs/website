@@ -1,6 +1,5 @@
-
 ---
-title: Einladung: Erstes offenes Treffen in neuen Räumen
+title: Einladung - Erstes offenes Treffen in neuen Räumen
 ---
 
 Liebe Freunde,
