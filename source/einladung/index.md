@@ -1,5 +1,5 @@
 ---
-title: Einladung - Erstes offenes Treffen in neuen Räumen
+title: Einladung - Einweihung der neuen Räume
 ---
 
 Liebe Freunde,
@@ -8,9 +8,7 @@ entweder habt ihr ein Rätsel gelöst, das wir euch gestellt haben um euch auf d
 
 Wir wollten euch auf diese Weise zu unserer (nicht ganz so public) Westwoodlabs Einweihungsparty einladen.  
 
-Wie ihr vielleicht gelesen habt, haben wir unsere ersten eigenen Räume angemietet. Wie ihr euch vorstellen könnt, sind wir jetzt erstmal damit beschäftigt alles herzurichten und 
-die Grundlagen unseres Hackerspaces zu Bootstrapen. Renovierung, Einrichtung und vieles mehr beschäftigt uns im Moment. Dennoch ist JETZT der richtige Zeitpunkt um euch zu unserer
-Einweihungsparty einzuladen. 
+Wie ihr vielleicht gelesen habt, haben wir unsere ersten eigenen Räume angemietet. Wie ihr euch vorstellen könnt, sind wir jetzt erstmal damit beschäftigt alles herzurichten und die Grundlagen unseres Hackerspaces zu Bootstrapen. Renovierung, Einrichtung und vieles mehr beschäftigt uns im Moment. Dennoch ist JETZT der richtige Zeitpunkt um euch zu unserer Einweihungsparty einzuladen. 
 
 Auch wenn wir noch nicht genau wissen wie die Feier aussehen wird, laden wir euch herzlich ein uns zu besuchen. 
 
@@ -19,8 +17,7 @@ Natürlich werden wir auch für euer leibliches Wohl sorgen, sind euch natürlic
 ## Wann? Wo?
 Am 20.07.19 starten wir ab 15 Uhr.
 
-Wie bereits erwähnt findet ihr uns im VIP City Center in der Rheinstraße 96, 56235 Ransbach-Baumbach.
-Dort sitzen wir im 1. OG hinter dem Eingang E, in Raum 1.11. 
+Wie bereits erwähnt findet ihr uns im VIP City Center in der Rheinstraße 96, 56235 Ransbach-Baumbach. Dort sitzen wir im 1. OG hinter dem Eingang E, in Raum 1.11. 
 
 Vor Ort dürft Ihr auf den unbeschilderten Parkplätzen rund um das Gebäude parken. 
 
