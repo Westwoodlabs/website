@@ -67,6 +67,9 @@ theme: westwoods
 excerpt_link: Mehr lesen
 logo: /images/logo.svg
 
+sitemap:
+    path: sitemap.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
