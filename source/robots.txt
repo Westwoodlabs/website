@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /js/
+Sitemap: https://westwoodlabs.de/sitemap.xml
