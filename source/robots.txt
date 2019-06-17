@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-Disallow: /wiki/
 Sitemap: https://westwoodlabs.de/sitemap.xml
