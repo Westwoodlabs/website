@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Disallow: /js/
+Disallow:
+Disallow: /wiki/
 Sitemap: https://westwoodlabs.de/sitemap.xml
