@@ -33,13 +33,13 @@ Hier ist die Lösung für unsere mini CTF Einladung.
 	file bild.png
   ```
 - Das PNG zeigt einen nicht lesbaren QR Code mit Westwoodlabs logo.
-  ![](westwoodlabslogo.png)
+  ![](../dateien/westwoodlabslogo.png)
 - Durch verändern des Kontrastes und der Helligkeit in einem Bildbearbeitungsprogramm lassen sich die Fehlenden Würfel einblenden.
   ```bash
         # Hierfür ist imagemagick von nöten.
         convert logo.png -threshold 99.9% qrcode.png
   ```
-  ![](einladungsqr.png)
+  ![](../dateien/einladungsqr.png)
 - Das Lesen dieses Codes führt euch auf "Westwoodlabs.de/einladung"
 
 War doch garnicht sooo schwer... ODER?
