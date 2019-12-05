@@ -21,7 +21,7 @@ Den Vorstand erreichst du über <a href="mailto:vorstand@westwoodlabs.de">vorsta
 
 Hier findet ihr die wichtigsten Dokumente:
 
-* [Satzung](/wiki/Offiziell:Satzung)
+* [Satzung](../dateien/Satzung_Westwoodlabs.pdf)
 * [Beitragsordnung](/wiki/Offiziell:Beitragsordnung)
 * [Mitgliedsantrag](../dateien/Mitgliedsantrag.pdf)
  
