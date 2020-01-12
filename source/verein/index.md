@@ -3,7 +3,7 @@ title: Verein
 ---
 
 ## Wo findet man uns?
-Seit Mitte 2019 sind wir im VIP CityCenter hinter Eingang E1 in Ransbach-Baumbach zuhause. Dort haben wir mehrere Räume eingerichtet, die allerlei Möglichkeiten bieten. 
+Seit Mitte 2019 sind wir im VIP CityCenter, Eingang E1 in Ransbach-Baumbach zuhause. Dort haben wir mehrere Räume eingerichtet, die allerlei Möglichkeiten bieten. 
 
 Die genaue Adresse:
 Rheinstraße 96
