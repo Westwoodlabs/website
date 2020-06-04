@@ -8,13 +8,22 @@ c/o Patric Steffen
 Friedrichstraße 13 
 57639 Rodenbach-Udert
 
-Eingetragen im Vereinsregister des Amtsgericht Montabaur unter VR 21511.
+## Vertretung
+Der Verein wird durch den Vorstand vertreten. Der Vorstand wurde am 05.10.2019 gewählt und hat eine Amtsperiode von zwei Jahren.
+Er besteht aktuell aus:
+- Vorsitzender: Patric Steffen
+- stv Vorsitzender: Lars Oppermann
+- Kassenwart: Philipp Menke
+- Schriftführer: Ansgar Taflinski
+- Beisitzer: Timo Widdau
+
+Westwoodlabs e.V. ist eingetragen im Vereinsregister des Amtsgericht Montabaur unter VR 21511.
 
 ## Kontakt:
 
 
 | E-Mail:                |
 | :--------------------- |
-| patric@westwoodlabs.de |
+| vorstand@westwoodlabs.de |
 
 Quelle: _[eRecht24](https://www.e-recht24.de)_
