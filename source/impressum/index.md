@@ -3,10 +3,12 @@ title: Impressum
 ---
 
 ## Angaben gemäß § 5 TMG:
-Westwoodlabs
+Westwoodlabs e.V.
 c/o Patric Steffen  
 Friedrichstraße 13 
 57639 Rodenbach-Udert
+
+Eingetragen im Vereinsregister des Amtsgericht Montabaur unter VR 21511.
 
 ## Kontakt:
 
