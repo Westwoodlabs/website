@@ -8,6 +8,9 @@ c/o Patric Steffen
 Friedrichstraße 13 
 57639 Rodenbach-Udert
 
+Registergericht: Amtsgericht Montabaur
+Registernummer: 21511
+
 ## Vertretung
 Der Verein wird durch den Vorstand vertreten. Der Vorstand wurde am 05.10.2019 gewählt und hat eine Amtsperiode von zwei Jahren.
 Er besteht aktuell aus:
@@ -17,13 +20,9 @@ Er besteht aktuell aus:
 - Schriftführer: Ansgar Taflinski
 - Beisitzer: Timo Widdau
 
-Westwoodlabs e.V. ist eingetragen im Vereinsregister des Amtsgericht Montabaur unter VR 21511.
-
 ## Kontakt:
-
 
 | E-Mail:                |
 | :--------------------- |
 | vorstand@westwoodlabs.de |
 
-Quelle: _[eRecht24](https://www.e-recht24.de)_

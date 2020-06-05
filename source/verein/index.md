@@ -15,7 +15,7 @@ Rheinstraße 96
 Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Hackerspace)
 
 ## Was sind die Westwoodlabs?
-Wir sind der lokale Hackerspace im Westerwald. Wir haben uns am 11. Juni 2016 gegründet und arbeiten derzeit an einer Eintragung um als e.V. arbeiten zu können. Wir sind jedoch bereits aktiv!
+Wir sind der lokale Hackerspace im Westerwald und haben uns am 11. Juni 2016 gegründet. Als "Chaostreff Westerwald" fühlen wir uns dem CCC verbunden. Eingetragen sind wir als gemeinnütziger Verein beim Amtsgericht Montabaur unter der Vereinsregisternummer 21511.
 
 Den Vorstand erreichst du über <a href="mailto:vorstand@westwoodlabs.de">vorstand@westwoodlabs.de</a>
 
