@@ -25,7 +25,7 @@ Der Testbetrieb hat uns gezeigt, das uns diese Regeln, mit Ausnahme der Personen
 
 Wenn ihr uns besuchen wollt meldet euch bitte vorher über unseren [IRC Channel oder unseren Telegram Chat](/contact/) an, damit wir ein wenig planen können und wir niemanden mit langem Anfahrtsweg nachhause schicken müssen.
 
-Zusätzlich müssen wir euch allerdings noch um eins bitten: Wenn ihr euch krank fühlt, Husten, Schnupfen, Kopfschmerzen, Fieber oder andere Symptome habt, bleibt bitte eine Weile dem Space fern. Besucht uns statt dessen in unserem Telegram oder im IRC, kommmt auf unseren Mumble und trefft euch dort mit uns. So schützt ihr auch euch und andere.
+Zusätzlich müssen wir euch allerdings noch um eins bitten: Wenn ihr euch krank fühlt, Husten, Schnupfen, Kopfschmerzen, Fieber oder andere Symptome habt, bleibt bitte eine Weile dem Space fern. Besucht uns statt dessen in unserem [Telegram oder im IRC](/contact/), kommmt auf unseren Mumble (mumble.westwoodlabs.de) und trefft euch dort mit uns. So schützt ihr auch euch und andere.
 
 Egal wo, wir freuen uns von euch zu hören. 
 
