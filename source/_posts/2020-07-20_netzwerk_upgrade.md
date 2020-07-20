@@ -1,6 +1,6 @@
 ---
 title: Netzwerk Upgrade, eine Lötecke und danke an Freifunk
-date: 2020-06-27 11:20:00
+date: 2020-07-20 11:20:00
 ---
 
 Ihr kennt das sicher von zu Hause: Es fängt mit einer Fritz!Box an und nach kurzer Zeit hat sich ein Kabelgewirr sondergleichen entwickelt - jeder hat Angst sich dauerhaft darin zu verfangen und elendig zu verhungern. 
