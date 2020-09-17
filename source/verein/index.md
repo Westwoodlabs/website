@@ -28,7 +28,7 @@ Hier findet ihr die wichtigsten Dokumente:
 
 ## Spenden
 Du möchtest die Ziele unseres Vereins finanziell mit einer Spende unterstützen?
-Wir würden uns darüber sehr freuen. Richte deine Spende gerne mit dem Verwendungszweck "Spende" an unser Vereinskonto bei der Westerwaldbank:
+Darüber freuen wir uns sehr. Richte deine Spende gerne mit dem Verwendungszweck "Spende" an unser Vereinskonto bei der Westerwaldbank:
 
 > Inh : Westwoodlabs e.V.
 >
