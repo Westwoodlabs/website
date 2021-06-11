@@ -5,7 +5,7 @@ title: Kontakt
 Man kann uns über verschiedene Wege erreichen:
 
 * Telegram  
-  Wir haben einen öffentlichen Channel bei Telegram [@Westwoodlabs](https://t.me/joinchat/CftZDD4BmV_OH1-UziJPag).
+  Wir haben einen öffentlichen Channel bei Telegram [@Westwoodlabs](https://t.me/westw00dlabs).
 
 * IRC
   Auf den Servern von [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs. Dieser Channel ist über ein Gateway mit dem Telegram Channel verbunden. Von daher ist es egal in welchem von beiden Kanälen du aktiv bist.
