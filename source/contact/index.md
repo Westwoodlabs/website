@@ -5,11 +5,14 @@ title: Kontakt
 Man kann uns über verschiedene Wege erreichen:
 
 * Telegram  
-  Wir haben einen öffentlichen Channel bei Telegram [@Westwoodlabs](https://t.me/westw00dlabs).
+  Wir haben einen öffentlichen Channel bei Telegram [@Westwoodlabs](https://t.me/westw00dlabs). Dieser Channel ist über ein Gateway mit dem Martix Channel und IRC verbunden. Von daher ist es egal in welchem Kanal du aktiv bist.
 
 * IRC
-  Auf den Servern von [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs. Dieser Channel ist über ein Gateway mit dem Telegram Channel verbunden. Von daher ist es egal in welchem von beiden Kanälen du aktiv bist.
+  Auf den Servern von [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs. Dieser Channel ist über ein Gateway mit dem Telegram Channel  und Matrix Channel verbunden. Von daher ist es egal in welchem Kanal du aktiv bist.
   [Zum Webclient](https://webirc.hackint.org/#westwoodlabs)
+  
+ * Martix
+   Wir haben einen öffentlichen Matrix Channel [@westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de). Dieser Channel ist über ein Gateway mit dem Telegram Channel und IRC verbunden. Von daher ist es egal in welchem Kanal du aktiv bist.
 
 
 * [Twitter](https://twitter.com/westwoodlabs)
