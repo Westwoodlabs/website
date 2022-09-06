@@ -19,7 +19,7 @@ Er besteht aktuell aus:
 - Stv. Vorsitzender: Lars Oppermann
 - Kassenwart: Philipp Menke
 - Schriftführer: Ansgar Taflinski
-- Beisitzer: Timo Widdau
+
 
 ## Kontakt:
 
