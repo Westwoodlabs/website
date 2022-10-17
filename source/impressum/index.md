@@ -8,6 +8,7 @@ c/o Patric Steffen
 Friedrichstraße 13 
 57639 Rodenbach-Udert
 
+
 Registergericht: Amtsgericht Montabaur
 Registernummer: 21511
 
@@ -20,10 +21,9 @@ Er besteht aktuell aus:
 - Kassenwart: Philipp Menke
 - Schriftführer: Ansgar Taflinski
 
+## Kontakt
 
-## Kontakt:
+E-Mail: vorstand@westwoodlabs.de
 
-| E-Mail:                |
-| :--------------------- |
-| vorstand@westwoodlabs.de |
+Weitere Kontaktmöglichkeiten findest du auf der [Kontakt](/contact)-Seite.
 
