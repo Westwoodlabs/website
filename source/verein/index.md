@@ -23,7 +23,7 @@ Hier findet ihr die wichtigsten Dokumente:
 
 * [Satzung](../dateien/Satzung_Westwoodlabs.pdf)
 * [Beitragsordnung](https://wiki.westwoodlabs.de/Beitragsordnung)
-* [Mitgliedsantrag](../dateien/Mitgliedsantrag.pdf)
+* [Mitgliedsantrag](https://github.com/Westwoodlabs/Mitgliedsantrag/releases/latest/download/Mitgliedsantrag_Westwoodlabs.pdf)
  
 
 ## Spenden
