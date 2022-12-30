@@ -3,7 +3,7 @@ title: Tag des offenen Hackerspace
 date: 2022-08-23 23:00:00
 ---
 
-Zusammen mit 50 anderen Hackserspaces aus ganz Deutschland beteiligen sich die Westwoodlabs am Tag des ofenen Hackerspaces. Am 27. August sind die Türen der Westoodlabs von 10:00 bis mindestens 22:00 Uhr für euch geöffnet.
+Zusammen mit 50 anderen Hackserspaces aus ganz Deutschland beteiligen sich die Westwoodlabs am Tag des ofenen Hackerspaces. Am 27. August sind die Türen der Westwoodlabs von 10:00 bis mindestens 22:00 Uhr für euch geöffnet.
 
 In unsere Räumlichkeiten basteln, reparieren und zerforschen wir. Dazu stehen uns 3D-Drucker, Elektronikarbeitsplätze, Software definded Radios, Konferenzräume und allereil Werkzeug zur Verfügung. Am Tag der offnen Tür bieten wir euch einen ersten Einblick in unsere Räumlichkeiten. Es gibt viel zu entdecken und Auszuprobieren. 
 
