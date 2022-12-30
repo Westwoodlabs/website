@@ -11,7 +11,7 @@ Unser Telegram-, IRC- und Matrix-Channel sind über einen Gateway miteinander ve
 
 * IRC [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs ([Webclient](https://webirc.hackint.org/#westwoodlabs))
   
-* Martix [@westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de) 
+* Matrix [@westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de) 
 
 ### Social Media
 Daneben sind wir noch auf diversen Social-Media-Plattformen vertreten:
