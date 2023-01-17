@@ -1,6 +1,6 @@
 ---
 title: Zurückblicken und nach vorne planen
-date: date: 2023-01-17 20:00:00
+date: 2023-01-17 20:00:00
 ---
 
 Liebe Freunde, Mitglieder und Förderer,
