@@ -5,7 +5,7 @@ date: 2023-01-17 20:00:00
 
 Liebe Freunde, Mitglieder und Förderer,
 
-nach den behördlichen und uns selbstauferlegten Schließung des Spaces 2022 und 2021, war 2022 das Jahr der Öffnung. Es kehrte wieder Normalität in den Westwoodlabs ein. Nach der Durststrecke der letzten beiden Jahre, treffen wir uns nun endlich wieder mehrmals die Woche in unseren Vereinsräumen in Ransbach-Baumbach. Besonders freut uns, dass wir trotz Corona auch viele neue Gesichter und Mitglieder bei uns begrüßen durften. Trotz der schlechten Bedingungen in den letzten Jahren, konnten wir die Zahl unserer Mitglieder weiter steigern. 
+nach den behördlichen und uns selbstauferlegten Schließung des Spaces im Jahr 2020 und 2021, war 2022 das Jahr der Öffnung. Es kehrte wieder Normalität in den Westwoodlabs ein. Nach der Durststrecke der letzten beiden Jahre, treffen wir uns nun endlich wieder mehrmals die Woche in unseren Vereinsräumen in Ransbach-Baumbach. Besonders freut uns, dass wir trotz Corona auch viele neue Gesichter und Mitglieder bei uns begrüßen durften. Trotz der schlechten Bedingungen in den letzten Jahren, konnten wir die Zahl unserer Mitglieder weiter steigern. 
 
 Speziell im letzten Jahr, haben uns viele Spenden, Dauerleihgaben, Anschaffungen und Arbeitsstunden der Mitglieder ermöglicht, die Vereinsräume weiter aufzuwerten. Dazu zählen:  Regale, einen weiteren Beamer samt elektr. Leinwand, einen neuen 3D-Drucker, einem ordentlich ausgestatteten Elektronikarbeitsplatz mit Lötrauchabsaugung, Entlötstation, diversen Netzteilen, Oszilloskopen und Spektrumanalyzer. Darüber sind wir sehr dankbar <3
 
