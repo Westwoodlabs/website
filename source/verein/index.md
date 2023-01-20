@@ -30,7 +30,7 @@ Hier findet ihr die wichtigsten Dokumente:
 Du möchtest die Ziele unseres Vereins finanziell mit einer Spende unterstützen? Darüber freuen wir uns sehr. Richte deine Spende gerne mit dem Verwendungszweck "Spende" an unser Vereinskonto bei der Westerwaldbank:
 
 > Inh : Westwoodlabs e.V.
-> IBAN: DE 27 5739 1800 0023 2916 06
+> IBAN: DE27 5739 1800 0023 2916 06
 > BIC : GENODE51WW1
 
 Die Ziele unseres Vereins sind vom Finanzamt als gemeinnützig und steuerbegünstigt anerkannt. Daher kannst du deine Spende von der Steuer absetzen. Wenn du hierzu eine Zuwendungsbestätigung benötigst, kann der Vorstand dir eine solche ausstellen. Wende dich hierzu einfach formlos per Mail an <a href="mailto:vorstand@westwoodlabs.de">vorstand@westwoodlabs.de</a>.
