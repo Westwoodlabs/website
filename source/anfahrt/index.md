@@ -14,6 +14,7 @@ Die genaue Adresse (Nur Anfahrt, Postanschrift siehe [Impressum](/impressum/)):
 
 *Kartenansicht ([OpenStreetMap](https://www.openstreetmap.org/#map=19/50.46260/7.72427))*
 [![Karte](../dateien/Karte.png)](https://www.openstreetmap.org/#map=19/50.46260/7.72427)
+*Map data from [OpenStreetMap](https://openstreetmap.org/copyright)*
 
 *Blick vom Parkplatz*
 ![Eingang Blick vom Parkplatz](../dateien/Eingang_1.jpg)
