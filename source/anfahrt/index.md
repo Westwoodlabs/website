@@ -12,9 +12,9 @@ Die genaue Adresse (Nur Anfahrt, Postanschrift siehe [Impressum](/impressum/)):
 > 56235 Ransbach-Baumbach
 
 
-*Kartenansicht ([OpenStreetMap](https://www.openstreetmap.org/#map=19/50.46260/7.72427))*
-[![Karte](../dateien/Karte.png)](https://www.openstreetmap.org/#map=19/50.46260/7.72427)
-*Map data from [OpenStreetMap](https://openstreetmap.org/copyright)*
+*Kartenansicht (Map data from [OpenStreetMap](https://openstreetmap.org/copyright))*
+[![Karte](../dateien/Karte.png)](https://www.openstreetmap.org/node/6514679996#map=18/50.46282/7.72521)
+
 
 *Blick vom Parkplatz*
 ![Eingang Blick vom Parkplatz](../dateien/Eingang_1.jpg)
