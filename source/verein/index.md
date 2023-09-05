@@ -2,19 +2,6 @@
 title: Verein
 ---
 
-## Wo findet man uns?
-Seit Mitte 2019 sind wir im VIP CityCenter, Eingang E1 in Ransbach-Baumbach zuhause. Dort haben wir mehrere Räume eingerichtet, die allerlei Möglichkeiten bieten. 
-
-Die genaue Adresse:
-Rheinstraße 96
-56235 Ransbach-Baumbach
-
-*Kartenansicht*
-![Karte](../dateien/Karte.png)
-
-*Blick vom Parkplatz*
-![Eingang Blick vom Parkplatz](../dateien/Eingang_1.jpg)
-
 ## Was ist ein Hackerspace?
  > Ein Hackerspace (von Hacker und Space, engl. für Raum) oder Hackspace ist ein physischer, häufig offener Raum, in dem sich Hacker sowie an Wissenschaft, Technologie oder digitaler Kunst (und vielen anderen Bereichen) Interessierte treffen und austauschen können. Sie werden meist von Vereinen getragen, in denen sich die Interessenten organisieren.
 
