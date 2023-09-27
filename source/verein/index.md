@@ -17,7 +17,11 @@ Hier findet ihr die wichtigsten Dokumente:
 * [Satzung](../dateien/Satzung_Westwoodlabs.pdf)
 * [Beitragsordnung](https://wiki.westwoodlabs.de/Beitragsordnung)
 * [Mitgliedsantrag](https://github.com/Westwoodlabs/Mitgliedsantrag/releases/latest/download/Mitgliedsantrag_Westwoodlabs.pdf)
- 
+
+## Wann haben wir geöffnet?
+
+Es gibt keine festen Öffnungszeiten, aber hier kannst du anhand einer Heatmap sehen, wann der Space besucht ist:
+* [Heat-Map](https://mapall.space/heatmap//show.php?id=Westwoodlabs)
 
 ## Spenden
 Du möchtest die Ziele unseres Vereins finanziell mit einer Spende unterstützen? Darüber freuen wir uns sehr. Richte deine Spende gerne mit dem Verwendungszweck "Spende" an unser Vereinskonto bei der Westerwaldbank:
