@@ -3,8 +3,6 @@ title: Wir erweitern unseren Hackerspace - Einladung zur Einweihungsfeier!
 date: 2023-10-17 22:50:00
 ---
 
-Wir erweitern unseren Hackerspace! 
-
 Wir haben aufregende Neuigkeiten zu teilen! Unser Hackerspace wächst und wir können es kaum erwarten euch zur Einweihungsfeier unserer erweiterten Räumlichkeiten einzuladen. 
 
 Nach all den Wochen des Renovierens und Einrichtens ist es endlich soweit und wir möchten diesen besonderen Moment mit Euch teilen.
