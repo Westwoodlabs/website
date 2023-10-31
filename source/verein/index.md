@@ -20,7 +20,8 @@ Hier findet ihr die wichtigsten Dokumente:
 
 ## Wann haben wir geöffnet?
 
-Es gibt keine festen Öffnungszeiten, aber hier kannst du anhand einer Heatmap sehen, wann der Space besucht ist:
+Es gibt keine festen Öffnungszeiten, aber in der Regel sind wir Dienstagsabends ab 18 Uhr da.  Du kannst gerne bei uns fragen, ob jemand da sein wird.
+Anhand der Heatmap kannst du sehen, wann der Space sonst auch oft besucht ist:
 * [Heat-Map](https://mapall.space/heatmap//show.php?id=Westwoodlabs)
 
 ## Spenden
