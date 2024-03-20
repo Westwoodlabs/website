@@ -10,7 +10,7 @@ description: Die Westwoodlabs e.V. sind ein Hackerspace in Ransbach-Baumbach. Un
 author:
 language: german
 timezone:
-color: '#121F2D'
+color: "#121F2D"
 status:
 
 # URL
@@ -68,7 +68,7 @@ excerpt_link: Mehr lesen
 logo: /images/logo.svg
 
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
 
 all_minifier: true
 # Deployment
