@@ -7,7 +7,7 @@ Seit Mitte 2019 sind wir im VIP CityCenter, Einfahrt 2, Eingang E1 in Ransbach-B
 
 Die genaue Adresse (Nur Anfahrt, Postanschrift siehe [Impressum](/impressum/)):
 > Westwoodlabs e.V.
-> Eingang E1
+> Einfahrt 2, Eingang E1
 > Rheinstraße 96
 > 56235 Ransbach-Baumbach
 
