@@ -3,7 +3,7 @@ title: Anfahrt
 ---
 
 ## Wo findet man uns?
-Seit Mitte 2019 sind wir im VIP CityCenter, Eingang E1 in Ransbach-Baumbach zuhause. Dort haben wir mehrere Räume eingerichtet, die allerlei Möglichkeiten bieten. 
+Seit Mitte 2019 sind wir im VIP CityCenter, Einfahrt 2, Eingang E1 in Ransbach-Baumbach zuhause. Dort haben wir mehrere Räume eingerichtet, die allerlei Möglichkeiten bieten. 
 
 Die genaue Adresse (Nur Anfahrt, Postanschrift siehe [Impressum](/impressum/)):
 > Westwoodlabs e.V.
