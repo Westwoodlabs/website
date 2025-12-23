@@ -2,7 +2,7 @@
 title: Impressum
 ---
 
-## Angaben gemäß § 5 TMG:
+## Angaben gemäß § 5 DDG:
 Westwoodlabs e.V.
 c/o Patric Steffen  
 Friedrichstraße 13 
