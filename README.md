@@ -41,7 +41,8 @@ git submodule update
 Dieses Repository enthält eine [Devcontainer](https://code.visualstudio.com/docs/remote/containers) Konfiguration für Visual Studio Code. Verzeichnis mit Visual Studio Code öffnen und die Devcontainer Erweiterung installieren. Danach kann die Devcontainer Konfiguration ausgewählt werden und die Entwicklungsumgebung wird automatisch eingerichtet. Nach dem Starten des Containers folgende Befehle ausführen:
 
 ```sh
-git submodule update --init
+git submodule update --init --recursive --remote
 npm install
-hexo server
+npx hexo clean
+npx hexo server
 ```
