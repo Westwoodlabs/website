@@ -1,0 +1,4 @@
+---
+title: Log
+layout: log
+---
