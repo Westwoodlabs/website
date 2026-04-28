@@ -1,4 +1,4 @@
 ---
-title: Log
+title: SpaceLog
 layout: log
 ---
