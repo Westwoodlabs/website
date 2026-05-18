@@ -7,11 +7,11 @@ Man kann uns über verschiedene Wege erreichen.
 ### Messenger- & IRC-Gruppe
 Unser Telegram-, IRC- und Matrix-Channel sind über einen Gateway miteinander verbunden. Von daher ist es egal in welchem Kanal du aktiv bist.
 
-* Telegram [@Westwoodlabs](https://t.me/westw00dlabs)
+* Telegram [@Westwo00dlabs](https://t.me/westw00dlabs)
 
 * IRC [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs ([Webclient](https://webirc.hackint.org/#westwoodlabs))
   
-* Matrix [@westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de) 
+* Matrix [#westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de) 
 
 ### Social Media
 Daneben sind wir noch auf diversen Social-Media-Plattformen vertreten:
