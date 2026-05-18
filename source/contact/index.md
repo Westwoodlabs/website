@@ -14,10 +14,7 @@ Unser Telegram-, IRC- und Matrix-Channel sind über einen Gateway miteinander ve
 * Matrix [#westwoodlabs:entropia.de](https://matrix.to/#/#westwoodlabs:entropia.de) 
 
 ### Social Media
-Daneben sind wir noch auf diversen Social-Media-Plattformen vertreten:
-
-* Twitter [@westwoodlabs](https://twitter.com/westwoodlabs)
-* Mastodon [@westwoodlabs@chaos.social](https://mastodon.social/web/@westwoodlabs@chaos.social)
+Daneben sind wir noch auf Mastodon vertreten: [@westwoodlabs@chaos.social](https://mastodon.social/web/@westwoodlabs@chaos.social)
 
 ### E-Mail
 Per E-Mail erreichst du uns via [vorstand@westwoodlabs.de](mailto:vorstand@westwoodlabs.de).
