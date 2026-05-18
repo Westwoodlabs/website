@@ -7,7 +7,7 @@ Man kann uns über verschiedene Wege erreichen.
 ### Messenger- & IRC-Gruppe
 Unser Telegram-, IRC- und Matrix-Channel sind über einen Gateway miteinander verbunden. Von daher ist es egal in welchem Kanal du aktiv bist.
 
-* Telegram [@Westwo00dlabs](https://t.me/westw00dlabs)
+* Telegram [@Westw00dlabs](https://t.me/westw00dlabs)
 
 * IRC [hackint.org](https://www.hackint.org) haben wir den Channel #westwoodlabs ([Webclient](https://webirc.hackint.org/#westwoodlabs))
   
